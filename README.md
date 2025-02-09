@@ -20,7 +20,7 @@ Dự án này sử dụng **Apache Kafka** và **Apache Spark Streaming** để 
 
 - **SQLite**: Lưu trữ dữ liệu đã xử lý.
 
--**Docker**: Triển khai pipeline.
+- **Docker**: Triển khai pipeline.
 
 ## 🛠️ Cài đặt & Chạy thử
 
