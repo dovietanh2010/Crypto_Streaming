@@ -8,7 +8,7 @@ Dự án này sử dụng **Apache Kafka** và **Apache Spark Streaming** để 
 
 - **Dữ liệu thu thập**: Lấy dữ liệu giá tiền điện tử từ API.
 
-- **Xử lý**: Streaming dữ liệu theo thời gian thực bằng Spark.
+- **Xử lý**: Streaming dữ liệu theo thời gian thực bằng Kafka.
 
 - **Lưu trữ**: Lưu dữ liệu vào SQLite để phân tích.
 
