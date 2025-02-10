@@ -1,4 +1,4 @@
-# ⚡ Crypto Streaming Pipeline
+# 💰 Crypto Streaming Pipeline
 
 ## 📡 Giới thiệu
 
