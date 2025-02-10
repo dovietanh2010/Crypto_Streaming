@@ -1,10 +1,10 @@
 # ⚡ Crypto Streaming Pipeline
 
-## 🐳 Giới thiệu
+## 📡 Giới thiệu
 
 Dự án này sử dụng **Apache Kafka** và **Apache Spark Streaming** để thu thập, xử lý và lưu trữ dữ liệu giá tiền điện tử theo thời gian thực. Dữ liệu được lưu vào cơ sở dữ liệu SQLite để phân tích.
 
-## 🌟 Quy trình
+## 🔄 Quy trình
 
 - **Dữ liệu thu thập**: Lấy dữ liệu giá tiền điện tử từ API.
 
@@ -26,8 +26,8 @@ Dự án này sử dụng **Apache Kafka** và **Apache Spark Streaming** để 
 
 ### 1. Clone repository
 ``` bash
-git clone https://github.com/user/crypto-streaming.git
-cd crypto-streaming
+git clone https://github.com/dovietanh2010/Crypto_Streaming.git
+cd Crypto_Streaming
 ```
 ### 2. Chạy Kafka và Spark Streaming bằng Docker
 ``` bash
