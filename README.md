@@ -35,11 +35,11 @@ docker-compose up --build
 ```
 ### 3. Kiểm tra luồng dữ liệu
 
-- Producer gửi dữ liệu từ **kafka_producer.py**.
+- Producer gửi dữ liệu từ `kafka_producer.py`.
 
-- Consumer xử lý dữ liệu với **spark_streaming.py**.
+- Consumer xử lý dữ liệu với `spark_streaming.py`.
 
-- Dữ liệu được lưu vào **CryptoDB.db**.
+- Dữ liệu được lưu vào `CryptoDB.db`.
 
 ---
 Chúc bạn cài đặt thành công! 🚀
