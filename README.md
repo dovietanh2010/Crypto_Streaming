@@ -31,7 +31,7 @@ cd Crypto_Streaming
 ```
 ### 2. Chạy Kafka và Spark Streaming bằng Docker
 ``` bash
-docker-compose up --build
+docker-compose up -d
 ```
 ### 3. Kiểm tra luồng dữ liệu
 
