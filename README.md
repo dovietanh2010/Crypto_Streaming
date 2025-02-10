@@ -4,7 +4,7 @@
 
 Dự án này sử dụng **Apache Kafka** và **Apache Spark Streaming** để thu thập, xử lý và lưu trữ dữ liệu giá tiền điện tử theo thời gian thực. Dữ liệu được lưu vào cơ sở dữ liệu SQLite để phân tích.
 
-## 🌟 Quy trình ETL
+## 🌟 Quy trình
 
 - **Dữ liệu thu thập**: Lấy dữ liệu giá tiền điện tử từ API.
 
